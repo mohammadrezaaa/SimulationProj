@@ -168,19 +168,3 @@ def HOSP_EXP(patience_AftRsv, DoctorsInRoom):
     start_time = []
     tmp = []
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
